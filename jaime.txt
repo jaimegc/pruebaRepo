@@ -2,8 +2,6 @@ Probando :D
 
 Hace años que escribi esto :(
 
-<<<<<<< HEAD
 Vivan los conflictos ;)
-=======
+
 Haremos conflicto ;)
->>>>>>> e47cbbc5f2fda6e1d2bebcdd679b896e415a92f8
